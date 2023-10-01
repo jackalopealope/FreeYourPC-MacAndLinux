@@ -1,0 +1,8 @@
+ After downloading, In order to run the "FreeYourPC-MacAndLinux.sh" file, you must first go to the directory you have downloaded the file 
+to via the terminal, then, copy and paste the following command into the terminal and press enter.
+
+sudo chmod +x FreeYourPC-MacAndLinux.sh
+
+Then, In order to run the file, still inside of the downloads directory, copy and paste the following command and press enter
+
+bash FreeYourPC-MacAndLinux.sh
