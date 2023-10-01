@@ -1,1 +1,0 @@
-# FreeYourPC-MacAndLinux
